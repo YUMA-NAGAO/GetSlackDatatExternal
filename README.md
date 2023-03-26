@@ -16,4 +16,4 @@ The overall code flow is a process of collecting data using the Slack API, organ
 If you want to create a Python environment, use Google Colabratory.
 We've created an easy to run environment for you.
 
-(Click here to see the finished product.)[https://colab.research.google.com/drive/17jvGzuTT8xct3WJOCDOXIGKlXz_APrKC#scrollTo=u9Poam6bfECu]
+[Click here to see the finished product.](https://colab.research.google.com/drive/17jvGzuTT8xct3WJOCDOXIGKlXz_APrKC#scrollTo=u9Poam6bfECu)
